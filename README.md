@@ -1,6 +1,6 @@
-# Quest Flask Server Color 32
+# Texture Flask Server Color 32
 
-A Quest server in Flask to deal with the Camera API on a local/remote compute  using Color32
+A Texture2D server in Flask to deal with the Camera API on a local/remote compute  using Color32
 
 ```
 pip install opencv-python flask jsonify Pillow pyzbar numpy pytesseract
