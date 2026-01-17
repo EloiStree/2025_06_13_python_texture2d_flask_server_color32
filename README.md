@@ -7,6 +7,10 @@ pip install opencv-python flask jsonify Pillow pyzbar numpy pytesseract
 
 ```
 
+Export image from Unity3D:    
+https://github.com/EloiStree/2025_06_13_upm_texture2d_to_flask 
+ 
+
 This code allows to use Python code like basic Open CV tool on a flask server.
 For example to export image of teh Quest3 
 ![Tennis Table Screenshot on Quest3](https://github.com/user-attachments/assets/0fdf9331-814e-4f4f-9af3-fd566e33af9a)
