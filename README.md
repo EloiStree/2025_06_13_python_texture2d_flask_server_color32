@@ -2,6 +2,10 @@
 
 A Quest server in Flask to deal with the Camera API on a local/remote compute  using Color32
 
+```
+pip install opencv-python flask jsonify Pillow pyzbar numpy pytesseract
+
+```
 
 This code allows to use Python code like basic Open CV tool on a flask server.
 For example to export image of teh Quest3 
